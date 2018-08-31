@@ -46,4 +46,6 @@ message:该项目是提供消息服务的系统，好包括定时任务
 
 启动成功后，就可以通过postman工具进行测试了
 
-希望喜欢的朋友都能给个star支持一下！谢谢~
+<strong>希望喜欢的朋友都能给个star支持一下！谢谢~</strong>
+
+![](https://raw.githubusercontent.com/wiki/wanglinyong/wanglinyong.github.io/ssm.png)
