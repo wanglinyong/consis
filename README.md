@@ -39,6 +39,7 @@ message:该项目是提供消息服务的系统，好包括定时任务
 注意启动顺序，如下：
 
 * 启动zookeeper
+* 启动activemq
 * 启动tomcat，访问dubbo-admin管理控制台
 * 启动MessageApplication
 * 启动ProductApplication
